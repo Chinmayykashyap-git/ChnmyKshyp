@@ -24,16 +24,20 @@ const jetbrainsMono = localFont({
   display: 'swap',
 });
 
+const basePath = process.env.NEXT_PUBLIC_BASE_PATH || '/ChnmyKshyp';
+const siteUrl = `https://chinmayykashyap-git.github.io${basePath}`;
+
 export const metadata: Metadata = {
-  metadataBase: new URL('https://chinmayykashyap-git.github.io'),
+  metadataBase: new URL(siteUrl),
   title: 'Chinmay Kashyap',
   description:
-    'Chinmay Kashyap: Machine Learning Engineer and Cloud & Backend Software Engineer (AWS & GCP). Software Engineering Intern at ServiceNow, Manipal University Jaipur.',
+    'Chinmay Kashyap: Machine Learning Engineer and Cloud & Backend Software Engineer (AWS & GCP). B.Tech in Computer & Communication Engineering, Manipal University Jaipur.',
   keywords: [
     'Chinmay Kashyap',
     'Machine Learning Engineer',
     'Cloud Software Engineer',
-    'ServiceNow Intern',
+    'ServiceNow',
+    'Kestra Open Source',
     'AWS Bedrock SageMaker',
     'Google Cloud GKE Document AI',
     'FinSight Risk Engine',
@@ -45,12 +49,12 @@ export const metadata: Metadata = {
   openGraph: {
     title: 'Chinmay Kashyap',
     description:
-      'Machine Learning Engineer and Cloud & Backend Software Engineer (AWS & GCP). Software Engineering Intern at ServiceNow.',
-    url: 'https://chinmayykashyap-git.github.io',
+      'Machine Learning Engineer and Cloud & Backend Software Engineer (AWS & GCP).',
+    url: `${siteUrl}/`,
     siteName: 'Chinmay Kashyap',
     images: [
       {
-        url: '/og-image.svg',
+        url: `${basePath}/og-image.svg`,
         width: 1200,
         height: 630,
         alt: 'Chinmay Kashyap',
@@ -64,7 +68,7 @@ export const metadata: Metadata = {
     title: 'Chinmay Kashyap',
     description:
       'Machine Learning Engineer and Cloud & Backend Software Engineer (AWS & GCP).',
-    images: ['/og-image.svg'],
+    images: [`${basePath}/og-image.svg`],
   },
 };
 
@@ -84,14 +88,10 @@ export default function RootLayout({
       addressCountry: 'India',
     },
     email: `mailto:${PORTFOLIO_DATA.personal.email}`,
-    url: 'https://chinmayykashyap-git.github.io',
+    url: `${siteUrl}/`,
     alumniOf: {
       '@type': 'CollegeOrUniversity',
       name: PORTFOLIO_DATA.personal.university,
-    },
-    worksFor: {
-      '@type': 'Organization',
-      name: 'ServiceNow',
     },
     sameAs: [
       PORTFOLIO_DATA.personal.links.github,
