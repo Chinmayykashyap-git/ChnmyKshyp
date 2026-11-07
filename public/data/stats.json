@@ -1,0 +1,97 @@
+{
+  "lastUpdated": "2026-11-08T00:44:00+05:30",
+  "source": "live-graphql-and-rest",
+  "leetcode": {
+    "username": "chinmayykashyap",
+    "profileUrl": "https://leetcode.com/u/chinmayykashyap/",
+    "ranking": 3511908,
+    "totalSolved": 34,
+    "easySolved": 26,
+    "mediumSolved": 8,
+    "hardSolved": 0,
+    "totalSubmissions": 41,
+    "easySubmissions": 31,
+    "mediumSubmissions": 10,
+    "hardSubmissions": 0,
+    "acceptanceRate": 82.9,
+    "streak": 1,
+    "totalActiveDays": 2,
+    "contestRating": null,
+    "submissionCalendar": {
+      "1769644800": 1,
+      "1769817600": 1
+    }
+  },
+  "hackerrank": {
+    "username": "wrkchinmay",
+    "profileUrl": "https://www.hackerrank.com/profile/wrkchinmay",
+    "badges": [
+      {
+        "name": "Java",
+        "category": "Language Proficiency",
+        "solved": 3,
+        "totalChallenges": 64,
+        "points": 18.0,
+        "progressToNextStar": 72,
+        "stars": 1
+      },
+      {
+        "name": "C Language",
+        "category": "Language Proficiency",
+        "solved": 1,
+        "totalChallenges": 25,
+        "points": 6.67,
+        "progressToNextStar": 44,
+        "stars": 1
+      }
+    ],
+    "activeTracks": [
+      "Artificial Intelligence",
+      "Algorithms",
+      "Data Structures",
+      "Python",
+      "Java",
+      "SQL",
+      "Databases",
+      "Distributed Systems"
+    ],
+    "certificates": []
+  },
+  "github": {
+    "username": "Chinmayykashyap-git",
+    "profileUrl": "https://github.com/Chinmayykashyap-git",
+    "publicRepos": 29,
+    "followers": 3,
+    "following": 5,
+    "bio": "Building at the Edge of Finance × Cloud × LLMs",
+    "topLanguages": [
+      { "name": "Python / Jupyter", "count": 9, "percentage": 38 },
+      { "name": "TypeScript / React", "count": 6, "percentage": 25 },
+      { "name": "JavaScript", "count": 4, "percentage": 17 },
+      { "name": "Java", "count": 3, "percentage": 12 },
+      { "name": "HTML / CSS / SQL", "count": 2, "percentage": 8 }
+    ],
+    "highlightedRepos": [
+      {
+        "name": "financial-risk-intelligence-system",
+        "language": "Jupyter Notebook / Python",
+        "url": "https://github.com/Chinmayykashyap-git/financial-risk-intelligence-system"
+      },
+      {
+        "name": "FinSight-Risk-Engine",
+        "language": "Jupyter Notebook / Python",
+        "url": "https://github.com/Chinmayykashyap-git/FinSight-Risk-Engine"
+      },
+      {
+        "name": "D.O.O.M",
+        "language": "Python / TypeScript",
+        "url": "https://github.com/Chinmayykashyap-git/D.O.O.M"
+      },
+      {
+        "name": "CompanyQ",
+        "language": "JavaScript",
+        "url": "https://github.com/Chinmayykashyap-git/CompanyQ"
+      }
+    ]
+  }
+}

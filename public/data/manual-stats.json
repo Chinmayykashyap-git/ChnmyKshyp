@@ -1,0 +1,39 @@
+{
+  "_comment": "Edit data/manual-stats.json in the project root to override any live stat.",
+  "hackerrank": {
+    "useManualOverride": false,
+    "username": "wrkchinmay",
+    "profileUrl": "https://www.hackerrank.com/profile/wrkchinmay",
+    "badges": [
+      {
+        "name": "Java",
+        "category": "Language Proficiency",
+        "solved": 3,
+        "totalChallenges": 64,
+        "points": 18.0,
+        "progressToNextStar": 72,
+        "stars": 1
+      },
+      {
+        "name": "C Language",
+        "category": "Language Proficiency",
+        "solved": 1,
+        "totalChallenges": 25,
+        "points": 6.67,
+        "progressToNextStar": 44,
+        "stars": 1
+      }
+    ],
+    "activeTracks": [
+      "Python",
+      "Java",
+      "SQL",
+      "Algorithms",
+      "Data Structures",
+      "Artificial Intelligence",
+      "C++",
+      "C"
+    ],
+    "certificates": []
+  }
+}

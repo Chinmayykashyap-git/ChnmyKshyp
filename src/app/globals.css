@@ -1,0 +1,110 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: dark;
+}
+
+*,
+::before,
+::after {
+  border-color: rgba(165, 189, 255, 0.15);
+}
+
+html.light-mode *,
+html.light-mode ::before,
+html.light-mode ::after {
+  border-color: rgba(37, 65, 178, 0.14);
+}
+
+html {
+  scroll-behavior: smooth;
+  background-color: #060a18;
+  color: #f1f5f9;
+}
+
+html.light-mode {
+  color-scheme: light;
+  background-color: #f1f5fd;
+  color: #0b132b;
+}
+
+/* Layered CSS fluted-glass fallback beneath WebGL canvas */
+.fluted-css-fallback {
+  background:
+    radial-gradient(ellipse 65% 58% at 48% 44%, rgba(122, 146, 204, 0.52), transparent 72%),
+    radial-gradient(ellipse 50% 45% at 24% 28%, rgba(74, 102, 168, 0.38), transparent 70%),
+    repeating-linear-gradient(
+      90deg,
+      rgba(255, 255, 255, 0.035) 0px,
+      rgba(255, 255, 255, 0.075) 7px,
+      rgba(6, 10, 24, 0.28) 14px,
+      rgba(255, 255, 255, 0.02) 22px
+    ),
+    linear-gradient(180deg, #070c1c 0%, #162344 52%, #070c1c 100%);
+}
+
+html.light-mode .fluted-css-fallback {
+  background:
+    radial-gradient(ellipse 65% 58% at 48% 44%, rgba(165, 189, 255, 0.45), transparent 72%),
+    repeating-linear-gradient(
+      90deg,
+      rgba(255, 255, 255, 0.65) 0px,
+      rgba(255, 255, 255, 0.9) 7px,
+      rgba(180, 198, 238, 0.35) 14px,
+      rgba(255, 255, 255, 0.5) 22px
+    ),
+    linear-gradient(180deg, #f3f6fd 0%, #dce6fb 52%, #eef3fc 100%);
+}
+
+/* Frosted Glass Cards (Tidewell aesthetic) */
+.glass-card {
+  background: linear-gradient(
+    145deg,
+    rgba(19, 30, 61, 0.62) 0%,
+    rgba(10, 16, 36, 0.74) 100%
+  );
+  border: 1px solid rgba(165, 189, 255, 0.22);
+  box-shadow:
+    0 24px 64px rgba(3, 7, 18, 0.45),
+    inset 0 1px 0 rgba(255, 255, 255, 0.14);
+  backdrop-filter: blur(22px);
+  -webkit-backdrop-filter: blur(22px);
+}
+
+html.light-mode .glass-card {
+  background: linear-gradient(
+    145deg,
+    rgba(255, 255, 255, 0.84) 0%,
+    rgba(241, 245, 253, 0.9) 100%
+  );
+  border: 1px solid rgba(42, 71, 212, 0.18);
+  box-shadow:
+    0 20px 50px rgba(15, 23, 42, 0.08),
+    inset 0 1px 0 rgba(255, 255, 255, 0.9);
+}
+
+html.light-mode .text-periwinkle-300,
+html.light-mode .text-periwinkle-200 {
+  color: #2541b2 !important;
+}
+
+/* Visible keyboard focus ring for WCAG AA accessibility */
+:focus-visible {
+  outline: 2px solid #a5bdff;
+  outline-offset: 3px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}

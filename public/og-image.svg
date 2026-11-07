@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#050814" />
+      <stop offset="50%" stop-color="#111C3D" />
+      <stop offset="100%" stop-color="#3957C6" />
+    </linearGradient>
+    <pattern id="flutes" width="24" height="630" patternUnits="userSpaceOnUse">
+      <rect x="0" y="0" width="12" height="630" fill="rgba(255,255,255,0.03)" />
+      <line x1="23" y1="0" x2="23" y2="630" stroke="rgba(165,189,255,0.12)" stroke-width="1" />
+    </pattern>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)" />
+  <rect width="1200" height="630" fill="url(#flutes)" />
+  <rect x="64" y="64" width="1072" height="502" rx="28" fill="rgba(9,14,32,0.72)" stroke="rgba(165,189,255,0.28)" stroke-width="1.5" />
+  <text x="120" y="155" fill="#9BB2FF" font-family="monospace" font-size="18" letter-spacing="3">CHINMAY KASHYAP · INTELLIGENCE, ENGINEERED.</text>
+  <text x="120" y="255" fill="#F8FAFF" font-family="sans-serif" font-weight="300" font-size="68" letter-spacing="-2">Intelligence, engineered</text>
+  <text x="120" y="335" fill="#C9D7FF" font-family="sans-serif" font-weight="300" font-size="68" letter-spacing="-2">to work.</text>
+  <text x="120" y="415" fill="#A5BDFF" font-family="sans-serif" font-size="24">Machine Learning Engineer · Cloud &amp; Backend Software Engineer (AWS &amp; GCP)</text>
+  <text x="120" y="495" fill="#7D9DFF" font-family="monospace" font-size="18">AWS · GCP · RAG / LLMs · Patent filed · GSSoC 2026</text>
+</svg>

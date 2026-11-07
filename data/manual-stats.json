@@ -1,0 +1,48 @@
+{
+  "_comment": "Edit any field below in 30 seconds to manually override HackerRank, LeetCode, or GitHub stats if an upstream API changes. Set useManualOverride: true on any section to prefer your manual numbers over fetched values.",
+  "hackerrank": {
+    "useManualOverride": false,
+    "username": "wrkchinmay",
+    "profileUrl": "https://www.hackerrank.com/profile/wrkchinmay",
+    "badges": [
+      {
+        "name": "Java",
+        "category": "Language Proficiency",
+        "solved": 3,
+        "totalChallenges": 64,
+        "points": 18.0,
+        "progressToNextStar": 72,
+        "stars": 1
+      },
+      {
+        "name": "C Language",
+        "category": "Language Proficiency",
+        "solved": 1,
+        "totalChallenges": 25,
+        "points": 6.67,
+        "progressToNextStar": 44,
+        "stars": 1
+      }
+    ],
+    "activeTracks": [
+      "Python",
+      "Java",
+      "SQL",
+      "Algorithms",
+      "Data Structures",
+      "Artificial Intelligence",
+      "C++",
+      "C"
+    ],
+    "certificates": []
+  },
+  "leetcode": {
+    "useManualOverride": false,
+    "username": "chinmayykashyap",
+    "totalSolved": 34,
+    "easySolved": 26,
+    "mediumSolved": 8,
+    "hardSolved": 0,
+    "totalSubmissions": 41
+  }
+}

@@ -1,0 +1,170 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R /F2 5 0 R >> >> /Contents 6 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+6 0 obj
+<< /Length 8821 >>
+stream
+0.050 0.090 0.200 rg
+BT /F2 17.5 Tf 40.0 756.0 Td (CHINMAY KASHYAP) Tj ET
+BT /F1 8.5 Tf 407.0 759.0 Td (Jaipur, India  |  wrkchinmay@gmail.com) Tj ET
+0.160 0.290 0.720 rg
+BT /F2 9.2 Tf 40.0 743.0 Td (Machine Learning Engineer  |  Cloud & Backend Software Engineer \(AWS & GCP\)) Tj ET
+0.280 0.320 0.400 rg
+BT /F1 7.9 Tf 40.0 732.0 Td (GitHub: github.com/Chinmayykashyap-git  |  LinkedIn: linkedin.com/in/chinmay-kashyap-216108307  |  LeetCode: chinmayykashyap  |  HackerRank: wrkchinmay) Tj ET
+0.120 0.240 0.620 rg
+BT /F2 9 Tf 40.0 717.0 Td (SUMMARY) Tj ET
+0.780 0.820 0.920 RG
+0.6 w 40 713.5 m 572 713.5 l S
+0.100 0.120 0.180 rg
+BT /F1 8.6 Tf 40.0 703.0 Td (ML engineer and software engineering intern with experience across AWS, GCP, RAG, LLM applications, and end-to-end ML pipelines.) Tj ET
+BT /F1 8.6 Tf 40.0 692.5 Td (Built a financial risk classifier with ~94% accuracy and explainable predictions; filed a patent and submitted a research paper on financial) Tj ET
+BT /F1 8.6 Tf 40.0 682.0 Td (risk modeling. GSSoC 2026 open-source contributor.) Tj ET
+0.120 0.240 0.620 rg
+BT /F2 9 Tf 40.0 668.0 Td (EDUCATION) Tj ET
+0.780 0.820 0.920 RG
+0.6 w 40 664.5 m 572 664.5 l S
+0.100 0.120 0.180 rg
+0.060 0.090 0.180 rg
+BT /F2 9 Tf 40.0 654.0 Td (Manipal University Jaipur  -  B.Tech in Computer & Communication Engineering) Tj ET
+BT /F2 8.4 Tf 427.0 654.0 Td (Aug 2024 - Jul 2028  |  Jaipur, India) Tj ET
+0.200 0.230 0.300 rg
+BT /F1 8.4 Tf 40.0 643.2 Td (Seeking Machine Learning, Software Engineering, and Cloud Engineering internships.) Tj ET
+0.120 0.240 0.620 rg
+BT /F2 9 Tf 40.0 629.2 Td (EXPERIENCE) Tj ET
+0.780 0.820 0.920 RG
+0.6 w 40 625.7 m 572 625.7 l S
+0.100 0.120 0.180 rg
+0.060 0.090 0.180 rg
+BT /F2 8.9 Tf 40.0 615.2 Td (Software Engineering Intern \(Cohort 3\)  -  ServiceNow) Tj ET
+BT /F2 8.2 Tf 480.0 615.2 Td (Apr 2026 - Aug 2026) Tj ET
+0.180 0.200 0.260 rg
+BT /F2 8.5 Tf 40.0 604.4 Td (-) Tj ET
+BT /F1 8.5 Tf 48.0 604.4 Td (Built workflow automation modules with JavaScript and REST APIs inside the enterprise software development lifecycle, reducing manual intervention.) Tj ET
+0.180 0.200 0.260 rg
+BT /F2 8.5 Tf 40.0 593.6 Td (-) Tj ET
+BT /F1 8.5 Tf 48.0 593.6 Td (Earned first achievement badge in Week 1; collaborated on ITSM system design and state-transition testing.) Tj ET
+0.060 0.090 0.180 rg
+BT /F2 8.9 Tf 40.0 581.3 Td (Open Source Contributor  -  Kestra \(Open-Source Contribution\)) Tj ET
+BT /F2 8.2 Tf 480.0 581.3 Td (2026 - Present) Tj ET
+0.180 0.200 0.260 rg
+BT /F2 8.5 Tf 40.0 570.5 Td (-) Tj ET
+BT /F1 8.5 Tf 48.0 570.5 Td (Kestra Core \(Issue #19963, branch fix/19963-timezones-tests, commit 9c2dc0ab3, Chinmayykashyap-git/kestra, v2.1.0-SNAPSHOT\): Added timeZones unit tests.) Tj ET
+0.180 0.200 0.260 rg
+BT /F2 8.5 Tf 40.0 559.7 Td (-) Tj ET
+BT /F1 8.5 Tf 48.0 559.7 Td (Kestra Looker Plugin \(io.kestra.plugin.looker, Issue #1 / PR #2\): Built tasks, triggers, WireMock tests, docs & icons \(./gradlew test: 32 passed\).) Tj ET
+0.060 0.090 0.180 rg
+BT /F2 8.9 Tf 40.0 547.4 Td (AI & Cloud Computing Trainee  -  Amazon Web Services \(AWS\)) Tj ET
+BT /F2 8.2 Tf 480.0 547.4 Td (Jan 2026 - Feb 2026) Tj ET
+0.180 0.200 0.260 rg
+BT /F2 8.5 Tf 40.0 536.6 Td (-) Tj ET
+BT /F1 8.5 Tf 48.0 536.6 Td (Built generative AI applications with Bedrock, SageMaker, and Lambda; configured ML inference pipelines with autoscaling and cost controls.) Tj ET
+0.180 0.200 0.260 rg
+BT /F2 8.5 Tf 40.0 525.8 Td (-) Tj ET
+BT /F1 8.5 Tf 48.0 525.8 Td (Published technical article on AWS Builder Center detailing the FinSight corporate bankruptcy prediction pipeline.) Tj ET
+0.060 0.090 0.180 rg
+BT /F2 8.9 Tf 40.0 513.5 Td (Cloud Facilitator  -  Google Cloud Community India) Tj ET
+BT /F2 8.2 Tf 480.0 513.5 Td (Dec 2025 - Jan 2026) Tj ET
+0.180 0.200 0.260 rg
+BT /F2 8.5 Tf 40.0 502.7 Td (-) Tj ET
+BT /F1 8.5 Tf 48.0 502.7 Td (Built a Document AI pipeline on GCP \(9D9P-01\) with CI/CD automation \(9D9P-02: Cloud Build, Artifact Registry, Cloud Deploy\) and GKE \(9D9P-03\).) Tj ET
+0.060 0.090 0.180 rg
+BT /F2 8.9 Tf 40.0 490.4 Td (Trainee, Forward Program  -  McKinsey & Company  |  Core Member  -  GDG Manipal University Jaipur) Tj ET
+BT /F2 8.2 Tf 480.0 490.4 Td (2024 - 2026) Tj ET
+0.180 0.200 0.260 rg
+BT /F2 8.5 Tf 40.0 479.6 Td (-) Tj ET
+BT /F1 8.5 Tf 48.0 479.6 Td (Applied structured problem-solving frameworks to technology cases at McKinsey; organized cloud/ML workshops with GDG MUJ.) Tj ET
+0.120 0.240 0.620 rg
+BT /F2 9 Tf 40.0 458.3 Td (SELECTED PROJECTS) Tj ET
+0.780 0.820 0.920 RG
+0.6 w 40 454.8 m 572 454.8 l S
+0.100 0.120 0.180 rg
+0.060 0.090 0.180 rg
+BT /F2 8.6 Tf 40.0 444.3 Td (CompanyQ  \(HTML5, CSS3, ES6+ JavaScript, Node.js Test Suite\)  [chinmayykashyap-git.github.io/CompanyQ]) Tj ET
+0.180 0.200 0.260 rg
+BT /F2 8.5 Tf 40.0 434.1 Td (-) Tj ET
+BT /F1 8.5 Tf 48.0 434.1 Td (Browser-based interview preparation platform covering 132 companies with 100% mock OA coverage, 65 questions across 7 formats, and 11 test suites.) Tj ET
+0.060 0.090 0.180 rg
+BT /F2 8.6 Tf 40.0 423.3 Td (D.O.O.M  \(Python 3.11, FastAPI, Scikit-learn, SQLite, React 18, TypeScript, D3, MapLibre\)) Tj ET
+0.180 0.200 0.260 rg
+BT /F2 8.5 Tf 40.0 413.1 Td (-) Tj ET
+BT /F1 8.5 Tf 48.0 413.1 Td (Cargo-manifest forensics platform evaluating 12 batch tampering families \(1.0000 F1, 87.5% reconstruction coverage\) at 82.89 events/s \(9.22 ms p50\).) Tj ET
+0.060 0.090 0.180 rg
+BT /F2 8.6 Tf 40.0 402.3 Td (FinSight Risk Engine  \(Python, Pandas, Scikit-learn, XGBoost, SMOTE, SHAP\)  [AWS Builder Center]) Tj ET
+0.180 0.200 0.260 rg
+BT /F2 8.5 Tf 40.0 392.1 Td (-) Tj ET
+BT /F1 8.5 Tf 48.0 392.1 Td (Evaluates 4 classifiers on 6,819 companies x 95 ratios; Random Forest + SMOTE achieves 94% accuracy, 0.950 ROC-AUC, and 77% recall \(up from 57%\).) Tj ET
+0.060 0.090 0.180 rg
+BT /F2 8.6 Tf 40.0 381.3 Td (Financial Risk Intelligence System  \(Python, Pandas, Scikit-learn, Matplotlib\)) Tj ET
+0.180 0.200 0.260 rg
+BT /F2 8.5 Tf 40.0 371.1 Td (-) Tj ET
+BT /F1 8.5 Tf 48.0 371.1 Td (End-to-end ML pipeline predicting corporate financial risk from 5 features \(revenue, profit margin, debt ratio, current ratio, cash flow\) with feature attribution.) Tj ET
+0.060 0.090 0.180 rg
+BT /F2 8.6 Tf 40.0 360.3 Td (Vertex AI Financial Analyst Assistant  \(Python, Vertex AI, GCP, LLMs, RAG\)) Tj ET
+0.180 0.200 0.260 rg
+BT /F2 8.5 Tf 40.0 350.1 Td (-) Tj ET
+BT /F1 8.5 Tf 48.0 350.1 Td (LLM assistant with ingestion, embedding, and retrieval-augmented inference pipelines providing grounded answers to financial queries.) Tj ET
+0.060 0.090 0.180 rg
+BT /F2 8.6 Tf 40.0 339.3 Td (GKE CI/CD Automation Pipeline  \(Cloud Build, GKE, Kubernetes, Cloud Deploy, Artifact Registry\)) Tj ET
+0.180 0.200 0.260 rg
+BT /F2 8.5 Tf 40.0 329.1 Td (-) Tj ET
+BT /F1 8.5 Tf 48.0 329.1 Td (Automated pipeline that builds, tests, containerizes, and deploys microservices to GKE with zero-downtime rolling updates.) Tj ET
+0.120 0.240 0.620 rg
+BT /F2 9 Tf 40.0 309.3 Td (RESEARCH & INTELLECTUAL PROPERTY) Tj ET
+0.780 0.820 0.920 RG
+0.6 w 40 305.8 m 572 305.8 l S
+0.100 0.120 0.180 rg
+0.180 0.200 0.260 rg
+BT /F2 8.5 Tf 40.0 295.3 Td (-) Tj ET
+BT /F1 8.5 Tf 48.0 295.3 Td (Patent \(Filed / Pending\): Method for risk assessment and transaction system optimization in financial systems.) Tj ET
+0.180 0.200 0.260 rg
+BT /F2 8.5 Tf 40.0 284.5 Td (-) Tj ET
+BT /F1 8.5 Tf 48.0 284.5 Td (Research Paper \(Under review\): "Financial Risk Modeling and Transaction System Design.") Tj ET
+0.180 0.200 0.260 rg
+BT /F2 8.5 Tf 40.0 273.7 Td (-) Tj ET
+BT /F1 8.5 Tf 48.0 273.7 Td (AWS Builder Center Article: "FinSight Risk Engine: Predicting Corporate Bankruptcy Before It Happens.") Tj ET
+0.120 0.240 0.620 rg
+BT /F2 9 Tf 40.0 253.9 Td (TECHNICAL SKILLS & CREDENTIALS) Tj ET
+0.780 0.820 0.920 RG
+0.6 w 40 250.4 m 572 250.4 l S
+0.100 0.120 0.180 rg
+0.180 0.200 0.260 rg
+BT /F2 8.5 Tf 40.0 239.9 Td (-) Tj ET
+BT /F1 8.5 Tf 48.0 239.9 Td (ML & AI: Machine Learning, Deep Learning, LLMs, RAG, Generative AI, Prompt Engineering, PyTorch, TensorFlow, Scikit-learn, Hugging Face, Vertex AI, XAI.) Tj ET
+0.180 0.200 0.260 rg
+BT /F2 8.5 Tf 40.0 229.1 Td (-) Tj ET
+BT /F1 8.5 Tf 48.0 229.1 Td (Cloud & DevOps: AWS \(SageMaker, Bedrock, Lambda\), GCP \(GKE, Cloud Run, Cloud Build, Document AI, Cloud Deploy, Artifact Registry, IAM\), Docker, Kubernetes, CI/CD.) Tj ET
+0.180 0.200 0.260 rg
+BT /F2 8.5 Tf 40.0 218.3 Td (-) Tj ET
+BT /F1 8.5 Tf 48.0 218.3 Td (Languages & Tools: Python, Java, C, C++, C#, JavaScript, SQL, Bash  |  REST APIs, ServiceNow, Pandas, NumPy, Matplotlib, Colab, Git, GitHub.) Tj ET
+0.180 0.200 0.260 rg
+BT /F2 8.5 Tf 40.0 207.5 Td (-) Tj ET
+BT /F1 8.5 Tf 48.0 207.5 Td (CS & Credentials: DSA, OOP, SDLC, Agile/Scrum, Unit Testing, Code Review  |  Google Cloud Skill Badges, Kaggle Python Coder, GSSoC 2026, Deloitte Simulation, IITB Robotics.) Tj ET
+endstream
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000251 00000 n 
+0000000321 00000 n 
+0000000396 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+9269
+%%EOF
