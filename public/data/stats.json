@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-08T00:44:00+05:30",
-  "source": "live-graphql-and-rest",
+  "lastUpdated": "2026-11-08T05:24:43.686Z",
+  "source": "github-actions-cron-or-dispatch",
   "leetcode": {
     "username": "chinmayykashyap",
     "profileUrl": "https://leetcode.com/u/chinmayykashyap/",
@@ -31,12 +31,12 @@
         "category": "Language Proficiency",
         "solved": 3,
         "totalChallenges": 64,
-        "points": 18.0,
+        "points": 18,
         "progressToNextStar": 72,
         "stars": 1
       },
       {
-        "name": "C Language",
+        "name": "C language",
         "category": "Language Proficiency",
         "solved": 1,
         "totalChallenges": 25,
@@ -65,11 +65,31 @@
     "following": 5,
     "bio": "Building at the Edge of Finance × Cloud × LLMs",
     "topLanguages": [
-      { "name": "Python / Jupyter", "count": 9, "percentage": 38 },
-      { "name": "TypeScript / React", "count": 6, "percentage": 25 },
-      { "name": "JavaScript", "count": 4, "percentage": 17 },
-      { "name": "Java", "count": 3, "percentage": 12 },
-      { "name": "HTML / CSS / SQL", "count": 2, "percentage": 8 }
+      {
+        "name": "Python / Jupyter",
+        "count": 9,
+        "percentage": 38
+      },
+      {
+        "name": "TypeScript / React",
+        "count": 6,
+        "percentage": 25
+      },
+      {
+        "name": "JavaScript",
+        "count": 4,
+        "percentage": 17
+      },
+      {
+        "name": "Java",
+        "count": 3,
+        "percentage": 12
+      },
+      {
+        "name": "HTML / CSS / SQL",
+        "count": 2,
+        "percentage": 8
+      }
     ],
     "highlightedRepos": [
       {

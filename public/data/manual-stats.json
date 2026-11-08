@@ -1,5 +1,5 @@
 {
-  "_comment": "Edit data/manual-stats.json in the project root to override any live stat.",
+  "_comment": "Edit any field below in 30 seconds to manually override HackerRank, LeetCode, or GitHub stats if an upstream API changes. Set useManualOverride: true on any section to prefer your manual numbers over fetched values.",
   "hackerrank": {
     "useManualOverride": false,
     "username": "wrkchinmay",
@@ -35,5 +35,14 @@
       "C"
     ],
     "certificates": []
+  },
+  "leetcode": {
+    "useManualOverride": false,
+    "username": "chinmayykashyap",
+    "totalSolved": 34,
+    "easySolved": 26,
+    "mediumSolved": 8,
+    "hardSolved": 0,
+    "totalSubmissions": 41
   }
 }
